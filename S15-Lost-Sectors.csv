@@ -29,79 +29,79 @@ Date (DD-MM-YYYY),Legend sector,Legend planet,Legend exotic,Master sector,Master
 20-09-2021,K1 Communion,Moon,Arms,K1 Logistics,Moon,Legs
 21-09-2021,K1 Crew Quarters,Moon,Chest,K1 Communion,Moon,Arms
 22-09-2021,K1 Revelation,Moon,Helmet,K1 Crew Quarters,Moon,Chest
-23-09-2021,Bay of Drowned Wishes,Dreaming City,Legs,K1 Revelation,Moon,Helmet
-24-09-2021,Chamber of Starlight,Dreaming City,Arms,Bay of Drowned Wishes,Dreaming City,Legs
-25-09-2021,Aphelion's Rest,Dreaming City,Chest,Chamber of Starlight,Dreaming City,Arms
-26-09-2021,The Empty Tank,Tangled Shore,Helmet,Aphelion's Rest,Dreaming City,Chest
-27-09-2021,K1 Logistics,Moon,Legs,The Empty Tank,Tangled Shore,Helmet
-28-09-2021,K1 Communion,Moon,Arms,K1 Logistics,Moon,Legs
-29-09-2021,K1 Crew Quarters,Moon,Chest,K1 Communion,Moon,Arms
-30-09-2021,K1 Revelation,Moon,Helmet,K1 Crew Quarters,Moon,Chest
-01-10-2021,Concealed Void,Europa,Legs,K1 Revelation,Moon,Helmet
-02-10-2021,Bunker E15,Europa,Arms,Concealed Void,Europa,Legs
-03-10-2021,Perdition,Europa,Chest,Bunker E15,Europa,Arms
-04-10-2021,Bay of Drowned Wishes,Dreaming City,Helmet,Perdition,Europa,Chest
-05-10-2021,Chamber of Starlight,Dreaming City,Legs,Bay of Drowned Wishes,Dreaming City,Helmet
-06-10-2021,Aphelion's Rest,Dreaming City,Arms,Chamber of Starlight,Dreaming City,Legs
-07-10-2021,The Empty Tank,Tangled Shore,Chest,Aphelion's Rest,Dreaming City,Arms
-08-10-2021,K1 Logistics,Moon,Helmet,The Empty Tank,Tangled Shore,Chest
-09-10-2021,K1 Communion,Moon,Legs,K1 Logistics,Moon,Helmet
-10-10-2021,K1 Crew Quarters,Moon,Arms,K1 Communion,Moon,Legs
-11-10-2021,K1 Revelation,Moon,Chest,K1 Crew Quarters,Moon,Arms
-12-10-2021,Concealed Void,Europa,Helmet,K1 Revelation,Moon,Chest
-13-10-2021,Bunker E15,Europa,Legs,Concealed Void,Europa,Helmet
-14-10-2021,Perdition,Europa,Arms,Bunker E15,Europa,Legs
-15-10-2021,Bay of Drowned Wishes,Dreaming City,Chest,Perdition,Europa,Arms
-16-10-2021,Chamber of Starlight,Dreaming City,Helmet,Bay of Drowned Wishes,Dreaming City,Chest
-17-10-2021,Aphelion's Rest,Dreaming City,Legs,Chamber of Starlight,Dreaming City,Helmet
-18-10-2021,The Empty Tank,Tangled Shore,Arms,Aphelion's Rest,Dreaming City,Legs
-19-10-2021,K1 Logistics,Moon,Chest,The Empty Tank,Tangled Shore,Arms
-20-10-2021,Bay of Drowned Wishes,Dreaming City,Helmet,K1 Logistics,Moon,Chest
-21-10-2021,Chamber of Starlight,Dreaming City,Legs,Bay of Drowned Wishes,Dreaming City,Helmet
-22-10-2021,Aphelion's Rest,Dreaming City,Arms,Chamber of Starlight,Dreaming City,Legs
-23-10-2021,The Empty Tank,Tangled Shore,Chest,Aphelion's Rest,Dreaming City,Arms
-24-10-2021,K1 Logistics,Moon,Helmet,The Empty Tank,Tangled Shore,Chest
-25-10-2021,K1 Communion,Moon,Legs,K1 Logistics,Moon,Helmet
-26-10-2021,K1 Crew Quarters,Moon,Arms,K1 Communion,Moon,Legs
-27-10-2021,K1 Revelation,Moon,Chest,K1 Crew Quarters,Moon,Arms
-28-10-2021,Bay of Drowned Wishes,Dreaming City,Helmet,K1 Revelation,Moon,Chest
-29-10-2021,Chamber of Starlight,Dreaming City,Legs,Bay of Drowned Wishes,Dreaming City,Helmet
-30-10-2021,Aphelion's Rest,Dreaming City,Arms,Chamber of Starlight,Dreaming City,Legs
-31-10-2021,The Empty Tank,Tangled Shore,Chest,Aphelion's Rest,Dreaming City,Arms
-01-11-2021,K1 Logistics,Moon,Helmet,The Empty Tank,Tangled Shore,Chest
-02-11-2021,K1 Communion,Moon,Legs,K1 Logistics,Moon,Helmet
-03-11-2021,K1 Crew Quarters,Moon,Arms,K1 Communion,Moon,Legs
-04-11-2021,K1 Revelation,Moon,Chest,K1 Crew Quarters,Moon,Arms
-05-11-2021,Concealed Void,Europa,Helmet,K1 Revelation,Moon,Chest
-06-11-2021,Bunker E15,Europa,Legs,Concealed Void,Europa,Helmet
-07-11-2021,Perdition,Europa,Arms,Bunker E15,Europa,Legs
-08-11-2021,Bay of Drowned Wishes,Dreaming City,Chest,Perdition,Europa,Arms
-09-11-2021,Chamber of Starlight,Dreaming City,Helmet,Bay of Drowned Wishes,Dreaming City,Chest
-10-11-2021,Aphelion's Rest,Dreaming City,Legs,Chamber of Starlight,Dreaming City,Helmet
-11-11-2021,The Empty Tank,Tangled Shore,Arms,Aphelion's Rest,Dreaming City,Legs
-12-11-2021,K1 Logistics,Moon,Chest,The Empty Tank,Tangled Shore,Arms
-13-11-2021,K1 Communion,Moon,Helmet,K1 Logistics,Moon,Chest
-14-11-2021,K1 Crew Quarters,Moon,Legs,K1 Communion,Moon,Helmet
-15-11-2021,K1 Revelation,Moon,Arms,K1 Crew Quarters,Moon,Legs
-16-11-2021,Concealed Void,Europa,Chest,K1 Revelation,Moon,Arms
-17-11-2021,Bunker E15,Europa,Helmet,Concealed Void,Europa,Chest
-18-11-2021,Perdition,Europa,Legs,Bunker E15,Europa,Helmet
-19-11-2021,Bay of Drowned Wishes,Dreaming City,Arms,Perdition,Europa,Legs
-20-11-2021,Chamber of Starlight,Dreaming City,Chest,Bay of Drowned Wishes,Dreaming City,Arms
-21-11-2021,Aphelion's Rest,Dreaming City,Helmet,Chamber of Starlight,Dreaming City,Chest
-22-11-2021,The Empty Tank,Tangled Shore,Legs,Aphelion's Rest,Dreaming City,Helmet
-23-11-2021,K1 Logistics,Moon,Arms,The Empty Tank,Tangled Shore,Legs
-24-11-2021,K1 Communion,Moon,Chest,K1 Logistics,Moon,Arms
-25-11-2021,K1 Crew Quarters,Moon,Helmet,K1 Communion,Moon,Chest
-26-11-2021,K1 Revelation,Moon,Legs,K1 Crew Quarters,Moon,Helmet
-27-11-2021,Concealed Void,Europa,Arms,K1 Revelation,Moon,Legs
-28-11-2021,Bunker E15,Europa,Chest,Concealed Void,Europa,Arms
-29-11-2021,Perdition,Europa,Helmet,Bunker E15,Europa,Chest
-30-11-2021,Bay of Drowned Wishes,Dreaming City,Legs,Perdition,Europa,Helmet
-01-12-2021,Chamber of Starlight,Dreaming City,Arms,Bay of Drowned Wishes,Dreaming City,Legs
-02-12-2021,Aphelion's Rest,Dreaming City,Chest,Chamber of Starlight,Dreaming City,Arms
-03-12-2021,The Empty Tank,Tangled Shore,Helmet,Aphelion's Rest,Dreaming City,Chest
-04-12-2021,K1 Logistics,Moon,Legs,The Empty Tank,Tangled Shore,Helmet
-05-12-2021,K1 Communion,Moon,Arms,K1 Logistics,Moon,Legs
-06-12-2021,K1 Crew Quarters,Moon,Chest,K1 Communion,Moon,Arms
-07-12-2021,K1 Revelation,Moon,Helmet,K1 Crew Quarters,Moon,Chest
+23-09-2021,Concealed Void,Europa,Legs,K1 Revelation,Moon,Helmet
+24-09-2021,Bunker E15,Europa,Arms,Concealed Void,Europa,Legs
+25-09-2021,Perdition,Europa,Chest,Bunker E15,Europa,Arms
+26-09-2021,Bay of Drowned Wishes,Dreaming City,Helmet,Perdition,Europa,Chest
+27-09-2021,Chamber of Starlight,Dreaming City,Legs,Bay of Drowned Wishes,Dreaming City,Helmet
+28-09-2021,Aphelion's Rest,Dreaming City,Arms,Chamber of Starlight,Dreaming City,Legs
+29-09-2021,The Empty Tank,Tangled Shore,Chest,Aphelion's Rest,Dreaming City,Arms
+30-09-2021,K1 Logistics,Moon,Helmet,The Empty Tank,Tangled Shore,Chest
+01-10-2021,K1 Communion,Moon,Legs,K1 Logistics,Moon,Helmet
+02-10-2021,K1 Crew Quarters,Moon,Arms,K1 Communion,Moon,Legs
+03-10-2021,K1 Revelation,Moon,Chest,K1 Crew Quarters,Moon,Arms
+04-10-2021,Concealed Void,Europa,Helmet,K1 Revelation,Moon,Chest
+05-10-2021,Bunker E15,Europa,Legs,Concealed Void,Europa,Helmet
+06-10-2021,Perdition,Europa,Arms,Bunker E15,Europa,Legs
+07-10-2021,Bay of Drowned Wishes,Dreaming City,Chest,Perdition,Europa,Arms
+08-10-2021,Chamber of Starlight,Dreaming City,Helmet,Bay of Drowned Wishes,Dreaming City,Chest
+09-10-2021,Aphelion's Rest,Dreaming City,Legs,Chamber of Starlight,Dreaming City,Helmet
+10-10-2021,The Empty Tank,Tangled Shore,Arms,Aphelion's Rest,Dreaming City,Legs
+11-10-2021,K1 Logistics,Moon,Chest,The Empty Tank,Tangled Shore,Arms
+12-10-2021,K1 Communion,Moon,Helmet,K1 Logistics,Moon,Chest
+13-10-2021,K1 Crew Quarters,Moon,Legs,K1 Communion,Moon,Helmet
+14-10-2021,K1 Revelation,Moon,Arms,K1 Crew Quarters,Moon,Legs
+15-10-2021,Concealed Void,Europa,Chest,K1 Revelation,Moon,Arms
+16-10-2021,Bunker E15,Europa,Helmet,Concealed Void,Europa,Chest
+17-10-2021,Perdition,Europa,Legs,Bunker E15,Europa,Helmet
+18-10-2021,Bay of Drowned Wishes,Dreaming City,Arms,Perdition,Europa,Legs
+19-10-2021,Chamber of Starlight,Dreaming City,Chest,Bay of Drowned Wishes,Dreaming City,Arms
+20-10-2021,Aphelion's Rest,Dreaming City,Helmet,Chamber of Starlight,Dreaming City,Chest
+21-10-2021,The Empty Tank,Tangled Shore,Legs,Aphelion's Rest,Dreaming City,Helmet
+22-10-2021,K1 Logistics,Moon,Arms,The Empty Tank,Tangled Shore,Legs
+23-10-2021,K1 Communion,Moon,Chest,K1 Logistics,Moon,Arms
+24-10-2021,K1 Crew Quarters,Moon,Helmet,K1 Communion,Moon,Chest
+25-10-2021,K1 Revelation,Moon,Legs,K1 Crew Quarters,Moon,Helmet
+26-10-2021,Concealed Void,Europa,Arms,K1 Revelation,Moon,Legs
+27-10-2021,Bunker E15,Europa,Chest,Concealed Void,Europa,Arms
+28-10-2021,Perdition,Europa,Helmet,Bunker E15,Europa,Chest
+29-10-2021,Bay of Drowned Wishes,Dreaming City,Legs,Perdition,Europa,Helmet
+30-10-2021,Chamber of Starlight,Dreaming City,Arms,Bay of Drowned Wishes,Dreaming City,Legs
+31-10-2021,Aphelion's Rest,Dreaming City,Chest,Chamber of Starlight,Dreaming City,Arms
+01-11-2021,The Empty Tank,Tangled Shore,Helmet,Aphelion's Rest,Dreaming City,Chest
+02-11-2021,K1 Logistics,Moon,Legs,The Empty Tank,Tangled Shore,Helmet
+03-11-2021,K1 Communion,Moon,Arms,K1 Logistics,Moon,Legs
+04-11-2021,K1 Crew Quarters,Moon,Chest,K1 Communion,Moon,Arms
+05-11-2021,K1 Revelation,Moon,Helmet,K1 Crew Quarters,Moon,Chest
+06-11-2021,Concealed Void,Europa,Legs,K1 Revelation,Moon,Helmet
+07-11-2021,Bunker E15,Europa,Arms,Concealed Void,Europa,Legs
+08-11-2021,Perdition,Europa,Chest,Bunker E15,Europa,Arms
+09-11-2021,Bay of Drowned Wishes,Dreaming City,Helmet,Perdition,Europa,Chest
+10-11-2021,Chamber of Starlight,Dreaming City,Legs,Bay of Drowned Wishes,Dreaming City,Helmet
+11-11-2021,Aphelion's Rest,Dreaming City,Arms,Chamber of Starlight,Dreaming City,Legs
+12-11-2021,The Empty Tank,Tangled Shore,Chest,Aphelion's Rest,Dreaming City,Arms
+13-11-2021,K1 Logistics,Moon,Helmet,The Empty Tank,Tangled Shore,Chest
+14-11-2021,K1 Communion,Moon,Legs,K1 Logistics,Moon,Helmet
+15-11-2021,K1 Crew Quarters,Moon,Arms,K1 Communion,Moon,Legs
+16-11-2021,K1 Revelation,Moon,Chest,K1 Crew Quarters,Moon,Arms
+17-11-2021,Concealed Void,Europa,Helmet,K1 Revelation,Moon,Chest
+18-11-2021,Bunker E15,Europa,Legs,Concealed Void,Europa,Helmet
+19-11-2021,Perdition,Europa,Arms,Bunker E15,Europa,Legs
+20-11-2021,Bay of Drowned Wishes,Dreaming City,Chest,Perdition,Europa,Arms
+21-11-2021,Chamber of Starlight,Dreaming City,Helmet,Bay of Drowned Wishes,Dreaming City,Chest
+22-11-2021,Aphelion's Rest,Dreaming City,Legs,Chamber of Starlight,Dreaming City,Helmet
+23-11-2021,The Empty Tank,Tangled Shore,Arms,Aphelion's Rest,Dreaming City,Legs
+24-11-2021,K1 Logistics,Moon,Chest,The Empty Tank,Tangled Shore,Arms
+25-11-2021,K1 Communion,Moon,Helmet,K1 Logistics,Moon,Chest
+26-11-2021,K1 Crew Quarters,Moon,Legs,K1 Communion,Moon,Helmet
+27-11-2021,K1 Revelation,Moon,Arms,K1 Crew Quarters,Moon,Legs
+28-11-2021,Concealed Void,Europa,Chest,K1 Revelation,Moon,Arms
+29-11-2021,Bunker E15,Europa,Helmet,Concealed Void,Europa,Chest
+30-11-2021,Perdition,Europa,Legs,Bunker E15,Europa,Helmet
+01-12-2021,Bay of Drowned Wishes,Dreaming City,Arms,Perdition,Europa,Legs
+02-12-2021,Chamber of Starlight,Dreaming City,Chest,Bay of Drowned Wishes,Dreaming City,Arms
+03-12-2021,Aphelion's Rest,Dreaming City,Helmet,Chamber of Starlight,Dreaming City,Chest
+04-12-2021,The Empty Tank,Tangled Shore,Legs,Aphelion's Rest,Dreaming City,Helmet
+05-12-2021,K1 Logistics,Moon,Arms,The Empty Tank,Tangled Shore,Legs
+06-12-2021,K1 Communion,Moon,Chest,K1 Logistics,Moon,Arms
+07-12-2021,K1 Crew Quarters,Moon,Helmet,K1 Communion,Moon,Chest
