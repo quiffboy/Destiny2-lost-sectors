@@ -9,7 +9,7 @@ Date (DD-MM-YYYY),Lost sector,Planet,Exotic reward,Champions,Burn,Shields
 31-05-2022,Extraction,Throne World,Arms,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
 01-06-2022,Excavation Site XII,EDZ,Chest,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
 02-06-2022,Skydock IV,EDZ,Helmet,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-03-06-2022,The Quarry,EDZ,Legs,"Barrier, Unstoppable",Void,"Solar, Void"
+03-06-2022,The Quarry,EDZ,Legs,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
 04-06-2022,K1 Crew Quarters,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
 05-06-2022,K1 Logistics,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
 06-06-2022,K1 Revelation,Moon,Helmet,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
@@ -20,7 +20,7 @@ Date (DD-MM-YYYY),Lost sector,Planet,Exotic reward,Champions,Burn,Shields
 11-06-2022,Extraction,Throne World,Legs,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
 12-06-2022,Excavation Site XII,EDZ,Arms,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
 13-06-2022,Skydock IV,EDZ,Chest,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-14-06-2022,The Quarry,EDZ,Helmet,"Barrier, Unstoppable",Void,"Solar, Void"
+14-06-2022,The Quarry,EDZ,Helmet,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
 15-06-2022,K1 Crew Quarters,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
 16-06-2022,K1 Logistics,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
 17-06-2022,K1 Revelation,Moon,Chest,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
@@ -28,65 +28,65 @@ Date (DD-MM-YYYY),Lost sector,Planet,Exotic reward,Champions,Burn,Shields
 19-06-2022,The Conflux,Nessus,Legs,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
 20-06-2022,Metamorphosis,Throne World,Arms,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
 21-06-2022,Sepulcher,Throne World,Chest,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-22-06-2022,Extraction,Throne World,Arms,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-23-06-2022,Excavation Site XII,EDZ,Chest,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-24-06-2022,Skydock IV,EDZ,Helmet,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-25-06-2022,The Quarry,EDZ,Legs,"Barrier, Unstoppable",Void,"Solar, Void"
-26-06-2022,K1 Crew Quarters,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-27-06-2022,K1 Logistics,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-28-06-2022,K1 Revelation,Moon,Helmet,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
-29-06-2022,K1 Communion,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
-30-06-2022,The Conflux,Nessus,Arms,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
-01-07-2022,Metamorphosis,Throne World,Chest,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
-02-07-2022,Sepulcher,Throne World,Helmet,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-03-07-2022,Extraction,Throne World,Legs,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-04-07-2022,Excavation Site XII,EDZ,Arms,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-05-07-2022,Skydock IV,EDZ,Chest,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-06-07-2022,The Quarry,EDZ,Helmet,"Barrier, Unstoppable",Void,"Solar, Void"
-07-07-2022,K1 Crew Quarters,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-08-07-2022,K1 Logistics,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-09-07-2022,K1 Revelation,Moon,Chest,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
-10-07-2022,K1 Communion,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
-11-07-2022,The Conflux,Nessus,Legs,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
-12-07-2022,Metamorphosis,Throne World,Arms,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
-13-07-2022,Sepulcher,Throne World,Chest,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-14-07-2022,Extraction,Throne World,Helmet,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-15-07-2022,Excavation Site XII,EDZ,Legs,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-16-07-2022,Skydock IV,EDZ,Arms,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-17-07-2022,The Quarry,EDZ,Chest,"Barrier, Unstoppable",Void,"Solar, Void"
-18-07-2022,K1 Crew Quarters,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-19-07-2022,K1 Logistics,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-20-07-2022,K1 Revelation,Moon,Arms,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
-21-07-2022,K1 Communion,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
-22-07-2022,The Conflux,Nessus,Helmet,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
-23-07-2022,Metamorphosis,Throne World,Legs,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
-24-07-2022,Sepulcher,Throne World,Arms,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-25-07-2022,Extraction,Throne World,Chest,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-26-07-2022,Excavation Site XII,EDZ,Helmet,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-27-07-2022,Skydock IV,EDZ,Legs,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-28-07-2022,The Quarry,EDZ,Arms,"Barrier, Unstoppable",Void,"Solar, Void"
-29-07-2022,K1 Crew Quarters,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-30-07-2022,K1 Logistics,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-31-07-2022,K1 Revelation,Moon,Legs,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
-01-08-2022,K1 Communion,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
-02-08-2022,The Conflux,Nessus,Chest,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
-03-08-2022,Metamorphosis,Throne World,Helmet,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
-04-08-2022,Sepulcher,Throne World,Legs,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-05-08-2022,Extraction,Throne World,Arms,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-06-08-2022,Excavation Site XII,EDZ,Chest,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-07-08-2022,Skydock IV,EDZ,Helmet,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-08-08-2022,The Quarry,EDZ,Legs,"Barrier, Unstoppable",Void,"Solar, Void"
-09-08-2022,K1 Crew Quarters,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-10-08-2022,K1 Logistics,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-11-08-2022,K1 Revelation,Moon,Helmet,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
-12-08-2022,K1 Communion,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
-13-08-2022,The Conflux,Nessus,Arms,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
-14-08-2022,Metamorphosis,Throne World,Chest,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
-15-08-2022,Sepulcher,Throne World,Helmet,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
-16-08-2022,Extraction,Throne World,Legs,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
-17-08-2022,Excavation Site XII,EDZ,Arms,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
-18-08-2022,Skydock IV,EDZ,Chest,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
-19-08-2022,The Quarry,EDZ,Helmet,"Barrier, Unstoppable",Void,"Solar, Void"
-20-08-2022,K1 Crew Quarters,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
-21-08-2022,K1 Logistics,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
-22-08-2022,K1 Revelation,Moon,Chest,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+22-06-2022,Extraction,Throne World,Helmet,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+23-06-2022,Excavation Site XII,EDZ,Legs,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+24-06-2022,Skydock IV,EDZ,Arms,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+25-06-2022,The Quarry,EDZ,Chest,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+26-06-2022,K1 Crew Quarters,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+27-06-2022,K1 Logistics,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+28-06-2022,K1 Revelation,Moon,Arms,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+29-06-2022,K1 Communion,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
+30-06-2022,The Conflux,Nessus,Helmet,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
+01-07-2022,Metamorphosis,Throne World,Legs,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
+02-07-2022,Sepulcher,Throne World,Arms,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
+03-07-2022,Extraction,Throne World,Chest,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+04-07-2022,Excavation Site XII,EDZ,Helmet,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+05-07-2022,Skydock IV,EDZ,Legs,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+06-07-2022,The Quarry,EDZ,Arms,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+07-07-2022,K1 Crew Quarters,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+08-07-2022,K1 Logistics,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+09-07-2022,K1 Revelation,Moon,Legs,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+10-07-2022,K1 Communion,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
+11-07-2022,The Conflux,Nessus,Chest,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
+12-07-2022,Metamorphosis,Throne World,Helmet,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
+13-07-2022,Sepulcher,Throne World,Legs,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
+14-07-2022,Extraction,Throne World,Arms,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+15-07-2022,Excavation Site XII,EDZ,Chest,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+16-07-2022,Skydock IV,EDZ,Helmet,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+17-07-2022,The Quarry,EDZ,Legs,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+18-07-2022,K1 Crew Quarters,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+19-07-2022,K1 Logistics,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+20-07-2022,K1 Revelation,Moon,Helmet,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+21-07-2022,K1 Communion,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
+22-07-2022,The Conflux,Nessus,Arms,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
+23-07-2022,Metamorphosis,Throne World,Chest,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
+24-07-2022,Sepulcher,Throne World,Helmet,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
+25-07-2022,Extraction,Throne World,Legs,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+26-07-2022,Excavation Site XII,EDZ,Arms,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+27-07-2022,Skydock IV,EDZ,Chest,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+28-07-2022,The Quarry,EDZ,Helmet,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+29-07-2022,K1 Crew Quarters,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+30-07-2022,K1 Logistics,Moon,Arms,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+31-07-2022,K1 Revelation,Moon,Chest,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+01-08-2022,K1 Communion,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
+02-08-2022,The Conflux,Nessus,Legs,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
+03-08-2022,Metamorphosis,Throne World,Arms,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
+04-08-2022,Sepulcher,Throne World,Chest,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
+05-08-2022,Extraction,Throne World,Helmet,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+06-08-2022,Excavation Site XII,EDZ,Legs,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+07-08-2022,Skydock IV,EDZ,Arms,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+08-08-2022,The Quarry,EDZ,Chest,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+09-08-2022,K1 Crew Quarters,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+10-08-2022,K1 Logistics,Moon,Legs,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+11-08-2022,K1 Revelation,Moon,Arms,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
+12-08-2022,K1 Communion,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Solar,"Solar (1 | 1), Void (2 | 0)"
+13-08-2022,The Conflux,Nessus,Helmet,"Barrier (2 | 3), Unstoppable (2 | 3)",Solar,Void (10 | 10)
+14-08-2022,Metamorphosis,Throne World,Legs,"Overload (3 | 3), Unstoppable (2 | 4)",Arc,"Arc (2 | 2), Solar (1 | 1)"
+15-08-2022,Sepulcher,Throne World,Arms,"Barrier (3 | 5), Unstoppable (1 | 3)",Solar,"Arc (2 | 2), Solar (1 | 1)"
+16-08-2022,Extraction,Throne World,Chest,"Overload (1 | 4), Unstoppable (3 | 3)",Arc,"Arc (7 | 2), Void (5 | 5)"
+17-08-2022,Excavation Site XII,EDZ,Helmet,"Barrier (1 | 2), Unstoppable (3 | 5)",Solar,Arc (1)
+18-08-2022,Skydock IV,EDZ,Legs,"Barrier (1 | 1), Unstoppable (3 | 5)",Solar,Void (4 | 2)
+19-08-2022,The Quarry,EDZ,Arms,"Barrier (2 | 4), Unstoppable (2 | 4)",Void,"Solar (1 | 1), Void (1 | 0)"
+20-08-2022,K1 Crew Quarters,Moon,Chest,"Barrier (3 | 4), Overload (2 | 6)",Arc,Solar (10 | 10)
+21-08-2022,K1 Logistics,Moon,Helmet,"Barrier (3 | 4), Overload (2 | 6)",Void,"Arc (3 | 3), Solar (8 | 8)"
+22-08-2022,K1 Revelation,Moon,Legs,"Barrier (4 | 7), Unstoppable (3 | 3)",Void,Arc (4 | 1)
